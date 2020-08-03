@@ -1,0 +1,6 @@
+E:\Visual C#\ExistingPowersOf2\ExistingPowersOf2\bin\Debug\ExistingPowersOf2.exe.config
+E:\Visual C#\ExistingPowersOf2\ExistingPowersOf2\bin\Debug\ExistingPowersOf2.exe
+E:\Visual C#\ExistingPowersOf2\ExistingPowersOf2\bin\Debug\ExistingPowersOf2.pdb
+E:\Visual C#\ExistingPowersOf2\ExistingPowersOf2\obj\Debug\ExistingPowersOf2.csprojAssemblyReference.cache
+E:\Visual C#\ExistingPowersOf2\ExistingPowersOf2\obj\Debug\ExistingPowersOf2.exe
+E:\Visual C#\ExistingPowersOf2\ExistingPowersOf2\obj\Debug\ExistingPowersOf2.pdb

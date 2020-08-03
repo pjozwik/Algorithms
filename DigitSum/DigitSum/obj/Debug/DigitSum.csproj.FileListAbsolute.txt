@@ -1,0 +1,6 @@
+E:\Visual C#\DigitSum\DigitSum\bin\Debug\DigitSum.exe.config
+E:\Visual C#\DigitSum\DigitSum\bin\Debug\DigitSum.exe
+E:\Visual C#\DigitSum\DigitSum\bin\Debug\DigitSum.pdb
+E:\Visual C#\DigitSum\DigitSum\obj\Debug\DigitSum.csprojAssemblyReference.cache
+E:\Visual C#\DigitSum\DigitSum\obj\Debug\DigitSum.exe
+E:\Visual C#\DigitSum\DigitSum\obj\Debug\DigitSum.pdb

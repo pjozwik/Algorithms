@@ -1,0 +1,6 @@
+C:\Users\piotr\source\repos\IntersysExercise_2\IntersysExercise_2\bin\Debug\IntersysExercise_2.exe.config
+C:\Users\piotr\source\repos\IntersysExercise_2\IntersysExercise_2\bin\Debug\IntersysExercise_2.exe
+C:\Users\piotr\source\repos\IntersysExercise_2\IntersysExercise_2\bin\Debug\IntersysExercise_2.pdb
+C:\Users\piotr\source\repos\IntersysExercise_2\IntersysExercise_2\obj\Debug\IntersysExercise_2.csprojAssemblyReference.cache
+C:\Users\piotr\source\repos\IntersysExercise_2\IntersysExercise_2\obj\Debug\IntersysExercise_2.exe
+C:\Users\piotr\source\repos\IntersysExercise_2\IntersysExercise_2\obj\Debug\IntersysExercise_2.pdb

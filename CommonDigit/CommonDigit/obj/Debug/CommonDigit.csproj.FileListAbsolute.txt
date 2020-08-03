@@ -1,0 +1,6 @@
+E:\Visual C#\CommonDigit\CommonDigit\bin\Debug\CommonDigit.exe.config
+E:\Visual C#\CommonDigit\CommonDigit\bin\Debug\CommonDigit.exe
+E:\Visual C#\CommonDigit\CommonDigit\bin\Debug\CommonDigit.pdb
+E:\Visual C#\CommonDigit\CommonDigit\obj\Debug\CommonDigit.csprojAssemblyReference.cache
+E:\Visual C#\CommonDigit\CommonDigit\obj\Debug\CommonDigit.exe
+E:\Visual C#\CommonDigit\CommonDigit\obj\Debug\CommonDigit.pdb

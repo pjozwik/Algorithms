@@ -1,0 +1,6 @@
+C:\Users\piotr\source\repos\FindingPrimes\FindingPrimes\bin\Debug\FindingPrimes.exe.config
+C:\Users\piotr\source\repos\FindingPrimes\FindingPrimes\bin\Debug\FindingPrimes.exe
+C:\Users\piotr\source\repos\FindingPrimes\FindingPrimes\bin\Debug\FindingPrimes.pdb
+C:\Users\piotr\source\repos\FindingPrimes\FindingPrimes\obj\Debug\FindingPrimes.csprojAssemblyReference.cache
+C:\Users\piotr\source\repos\FindingPrimes\FindingPrimes\obj\Debug\FindingPrimes.exe
+C:\Users\piotr\source\repos\FindingPrimes\FindingPrimes\obj\Debug\FindingPrimes.pdb

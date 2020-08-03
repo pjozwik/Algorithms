@@ -1,0 +1,6 @@
+E:\Visual C#\IntersysExercise_1\IntersysExercise_1\obj\Debug\IntersysExercise_1.csprojAssemblyReference.cache
+E:\Visual C#\IntersysExercise_1\IntersysExercise_1\bin\Debug\IntersysExercise_1.exe.config
+E:\Visual C#\IntersysExercise_1\IntersysExercise_1\bin\Debug\IntersysExercise_1.exe
+E:\Visual C#\IntersysExercise_1\IntersysExercise_1\bin\Debug\IntersysExercise_1.pdb
+E:\Visual C#\IntersysExercise_1\IntersysExercise_1\obj\Debug\IntersysExercise_1.exe
+E:\Visual C#\IntersysExercise_1\IntersysExercise_1\obj\Debug\IntersysExercise_1.pdb
